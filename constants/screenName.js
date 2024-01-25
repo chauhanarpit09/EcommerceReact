@@ -1,0 +1,20 @@
+const screenNames = {
+  register: "REGISTER",
+  login: "LOGIN",
+  home: "HOME",
+  cart: "CART",
+  wishList: "WISHLIST",
+  search: "SEARCH",
+  bottomNavigation: "BOTTOM_NAVIGATION",
+  profile: "PROFILE",
+  productView: "PRODUCT_VIEW",
+  order: "ORDERS",
+  address: "ADDRESS",
+  reviews: "REVIEWS",
+  earn: "EARN",
+  editProfile: "EDIT_PROFILE",
+  helpCentre: "HELP_CENTRE",
+  searchResult: "SEARCH_RESULT",
+  checkout: "CHECKOUT",
+};
+export { screenNames };
